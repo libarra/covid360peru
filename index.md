@@ -33,3 +33,5 @@ El código y la información proporcionada puede usarse como referencia gráfica
 El diseño así como el código fuente pertenece a los autores y no puede ser copiado o tomado como base para otras aplicaciones.
 
 La información numérica y estadística si puede ser usada o mostrada en otras apliaciones o medios bajo total responsabilidad de quien la publica.
+
+La aplicación muestra contenido de 3eros, específicamente el servicio web que alimenta los datos principales: https://github.com/pomber/covid19 el servicio es propiedad de Rodrigo Pombo, pombopombopombo@gmail.com, https://pomb.us
