@@ -10,6 +10,12 @@ En esta aplicación podrás encontrar un dashboard de información general que m
 
 Se muestra la información de los últimos 7 días.
 
+Tambien encontrarás los siguientes teléfonos de emergencia:
+
+- Números de emergencia: Policia, Bomberos, Emergenias, entre otros.
+- Principales Clínicas.
+- Hospitales de Lima y Provincia.
+
 ## Soporte o Contacto
 
 Cualquier tema de soporte por favor escribir a luisibarraconsiglieri@gmail.com
