@@ -1,36 +1,23 @@
-## Welcome to GitHub Pages
+# Bienvenido a COVID360PERU
 
-You can use the [editor on GitHub](https://github.com/libarra/covid360peru/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CODVID360PERU es una aplicación para iOS que muestra información del estado de la infección del virus COVID-19 en el Perú.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En esta aplicación podrás encontrar un dashboard de información general que muestra la evolución de las cantidades de:
 
-### Markdown
+- Infectados
+- Recuperados
+- Muertes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Se muestra la información de los últimos 7 días.
 
-```markdown
-Syntax highlighted code block
+## Soporte
 
-# Header 1
-## Header 2
-### Header 3
+Cualquier tema de soporte por favor escribir a luisibarraconsiglieri@gmail.com
 
-- Bulleted
-- List
+## Marketing
 
-1. Numbered
-2. List
+Cualquier tema de marketing por favor escribir a luisibarraconsiglieri@gmail.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/libarra/covid360peru/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
