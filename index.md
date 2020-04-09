@@ -23,3 +23,13 @@ Cualquier tema de soporte por favor escribir a luisibarraconsiglieri@gmail.com
 ## Marketing
 
 Cualquier tema de marketing por favor escribir a luisibarraconsiglieri@gmail.com
+
+## Política de Privacidad
+
+Los datos mostrados son referenciales y pueden variar según las fuentes de datos vayan actualizando o corrigiendo los datos. Ubiquo y los autores son responsables de la exactitud de la información y esta debe usarse solamente como referencia.
+
+El código y la información proporcionada puede usarse como referencia gráfica en publicaciones de 3eros pero ni Ubiquo ni los autores se responsabilizan por el uso que se le de, ni por la exactitud que representen.
+
+El diseño así como el código fuente pertenece a los autores y no puede ser copiado o tomado como base para otras aplicaciones.
+
+La información numérica y estadística si puede ser usada o mostrada en otras apliaciones o medios bajo total responsabilidad de quien la publica.
