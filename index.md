@@ -10,15 +10,10 @@ En esta aplicación podrás encontrar un dashboard de información general que m
 
 Se muestra la información de los últimos 7 días.
 
-## Soporte
+## Soporte o Contacto
 
 Cualquier tema de soporte por favor escribir a luisibarraconsiglieri@gmail.com
 
 ## Marketing
 
 Cualquier tema de marketing por favor escribir a luisibarraconsiglieri@gmail.com
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
